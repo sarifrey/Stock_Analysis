@@ -15,10 +15,18 @@ The refactored code does produce small gains in efficiency.
 
 2017 stock results time:
 
-![alt text](https://github.com/sarifrey/kickstarter-analysis/tree/main/resources/Outcomes_vs_Goals.png?raw=true)
+![alt text](https://github.com/sarifrey/stock_analysis/blob/main/Resources/2017_Results.png)
 
+
+2018 stock return results time:
 
 
 ###Summary
 The advantage of refactoring code is I did not see any. It was minor tweaks in code that required a lot of effort for small gains.
-The disadvantage was in refactoring code figuring out how to best refactor the code
+The disadvantage was in refactoring code figuring out how to best refactor the code.
+
+The advantage of the refactored script is the nominal efficiency in getting results. Even a small increase in speed of results can help Steve do his work more efficiently. 
+The advantage of the original code is that is easier to follow if one is not very familiar with VBA.
+
+The disadvantage of the original VBA script was learning how to write it with little experience and background in VBA. It was not an intuitive process. 
+The disadvantage of the refactored VBA script was learning how to make the changes.
