@@ -20,6 +20,7 @@ The refactored code does produce small gains in efficiency.That small gain in ef
 
 
 2018 stock return results time:
+
 ![alt text](https://github.com/sarifrey/stock_analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 
