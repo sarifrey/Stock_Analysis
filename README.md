@@ -11,17 +11,19 @@ To determine if the refactoring is successful, the run times of the refactored V
 
 
 ### Results
+
 The refactored code does produce small gains in efficiency.
 
 2017 stock results time:
 
-![alt text](https://github.com/sarifrey/stock_analysis/blob/main/Resources/2017_Results.png)
+![alt text](https://github.com/sarifrey/stock_analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 
 2018 stock return results time:
 
 
 ###Summary
+
 The advantage of refactoring code is I did not see any. It was minor tweaks in code that required a lot of effort for small gains.
 The disadvantage was in refactoring code figuring out how to best refactor the code.
 
